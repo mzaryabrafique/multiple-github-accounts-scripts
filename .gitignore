@@ -1,0 +1,5 @@
+# Never commit tokens or local profile files
+*.env
+.env
+.env.*
+accounts/
